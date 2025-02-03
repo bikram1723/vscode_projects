@@ -1,0 +1,19 @@
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none; /* Remove underline */
+}
+.button:hover {
+    background-color: #0056b3;
+}
